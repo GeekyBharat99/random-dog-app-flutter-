@@ -10,4 +10,7 @@
 ## hosted on netlify:-
 ## https://random-dog-flutter.netlify.app/#/
 
+
+# 🐶
+## You may use this to spread some Pawsitivity.
 ## hactoberfest accepted now.
