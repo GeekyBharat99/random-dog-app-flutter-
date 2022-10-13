@@ -10,4 +10,4 @@
 ## hosted on netlify:-
 ## https://random-dog-flutter.netlify.app/#/
 
-## hactoberfest accepted.
+## hactoberfest accepted now.
